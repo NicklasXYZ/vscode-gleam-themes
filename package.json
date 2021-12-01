@@ -1,0 +1,21 @@
+{
+    "name": "gleam-themes",
+    "displayName": "Gleam Themes",
+    "description": "A collection of VSCode themes inspired by the main colors used by the Gleam programming language.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "gleam-themes",
+                "uiTheme": "vs-dark",
+                "path": "./themes/gleam-theme-minimal-dark.json"
+            }
+        ]
+    }
+}

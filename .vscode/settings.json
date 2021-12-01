@@ -1,0 +1,6 @@
+{
+    "markdown.styles": [
+        "https://raw.githubusercontent.com/sindresorhus/github-markdown-css/gh-pages/github-markdown.css"
+  ],
+  "python.pythonPath": "/home/nicklasxyz/miniconda3/envs/ox/bin/python"
+}
