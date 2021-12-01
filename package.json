@@ -3,12 +3,34 @@
     "displayName": "Gleam Themes",
     "description": "A collection of VSCode themes inspired by the main colors used by the Gleam programming language.",
     "version": "0.0.1",
+    "publisher": "nicklasxyz",
+    "license": "SEE LICENSE IN LICENSE",
     "engines": {
         "vscode": "^1.62.0"
     },
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "color-theme",
+        "dark",
+        "pink",
+        "pastel",
+        "theme",
+        "gleam"
+    ],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/NicklasXYZ/vscode-gleam-themes.git"
+	},
+	"bugs": {
+		"url": "https://github.com/NicklasXYZ/vscode-gleam-themes/issues"
+	},
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#0f0f0f",
+		"theme": "dark"
+	},
     "contributes": {
         "themes": [
             {
