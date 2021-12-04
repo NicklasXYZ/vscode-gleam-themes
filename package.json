@@ -26,7 +26,7 @@
 	"bugs": {
 		"url": "https://github.com/NicklasXYZ/vscode-gleam-themes/issues"
 	},
-	"icon": "icon.png",
+	"icon": "images/icon.png",
 	"galleryBanner": {
 		"color": "#9f9f9f",
 		"theme": "light"
