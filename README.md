@@ -6,6 +6,7 @@ A collection of Visual Studio Code themes inspired by the primary colors used by
 
 <img src="https://raw.githubusercontent.com/NicklasXYZ/vscode-gleam-themes/main/images/gleam-minimal-dark-v0.0.3-bg0.png" title="Gleam Minimal Dark Preview" />
 
+
 ## Recommendations
 
 The author recommends using the color themes together with the [Chalice Icon Theme](https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-icon-theme) and the following settings:
