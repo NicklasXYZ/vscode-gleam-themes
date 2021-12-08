@@ -278,7 +278,8 @@
 		"editorUnnecessaryCode.opacity": "#000000aa",
 		"editorWarning.foreground": "#FFD08F",
 		"editorWidget.foreground": "#DCDCDC",
-		"errorForeground": "#FF8F99",
+		// "errorForeground": "#FF8F99",
+		"errorForeground": "#0f0f0f",
 		"extensionBadge.remoteBackground": "#ffaff3",
 		"extensionBadge.remoteForeground": "#0f0f0f",
 		"extensionIcon.starForeground": "#ffaff3",
@@ -411,13 +412,13 @@
 		"sideBarTitle.foreground": "#DCDCDC",
 		"sideBar.dropBackground": "#4f4f4f6a",
 		"sideBySideEditor.border": "#ffaff3",	
-		"statusBar.debuggingBackground": "#1f1f1f",
-		"statusBar.debuggingForeground": "#CE9178",
-		"statusBar.noFolderForeground": "#FF8F99",
-		"statusBarItem.errorBackground": "#1f1f1f",
-		"statusBarItem.errorForeground": "#FF8F99",
-		"statusBarItem.warningBackground": "#1f1f1f",
-		"statusBarItem.warningForeground": "#FFD08F",
+		"statusBar.debuggingBackground": "#ffaff3",
+		"statusBar.debuggingForeground": "#0f0f0f",
+		"statusBar.noFolderForeground": "#0f0f0f",
+		"statusBarItem.errorBackground": "#ffaff3",
+		"statusBarItem.errorForeground": "#0f0f0f",
+		"statusBarItem.warningBackground": "#ffaff3",
+		"statusBarItem.warningForeground": "#0f0f0f",
 		"statusBarItem.activeBackground": "#DCDCDC",
 		"statusBarItem.hoverBackground": "#DCDCDC",
 		"statusBarItem.prominentHoverBackground": "#000000",
@@ -767,7 +768,8 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#D9ADFF"
+				"foreground": "#6BCCCC"
+				// "foreground": "#D9ADFF"
 			}
 		},
 		{
@@ -842,7 +844,8 @@
 				"text.html.basic entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#D9ADFF",
+				"foreground": "#6BCCCC",
+				// "foreground": "#D9ADFF",
 				"fontStyle": "italic"
 			}
 		},
@@ -851,8 +854,8 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-
-				"foreground": "#D9ADFF"
+				"foreground": "#6BCCCC"
+				// "foreground": "#D9ADFF"
 			}
 		},
 		{
@@ -1127,7 +1130,8 @@
 				"constant.other.reference.link.markdown"
 			],
 			"settings": {
-				"foreground": "#D9ADFF"
+				"foreground": "#6BCCCC"
+				// "foreground": "#D9ADFF"
 			}
 		},
 		{
@@ -1210,7 +1214,9 @@
 		{
 			"scope": "token.debug-token",
 			"settings": {
-				"foreground": "#D9ADFF"
+				"foreground": "#6BCCCC"
+				// "foreground": "#D9ADFF"
+
 			}
 		}
 	]

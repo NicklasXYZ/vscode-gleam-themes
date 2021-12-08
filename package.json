@@ -2,7 +2,7 @@
     "name": "gleam-themes",
     "displayName": "Gleam Themes",
     "description": "A collection of VSCode themes inspired by the main colors used by the Gleam programming language.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "nicklasxyz",
     "license": "SEE LICENSE IN LICENSE",
     "engines": {
