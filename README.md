@@ -4,7 +4,7 @@ A collection of Visual Studio Code themes inspired by the primary colors used by
 
 ## Gleam Minimal Dark Theme Preview
 
-<img src="https://raw.githubusercontent.com/NicklasXYZ/vscode-gleam-themes/main/images/gleam-minimal-dark-bg0.png" title="Gleam Minimal Dark Preview" />
+<img src="https://raw.githubusercontent.com/NicklasXYZ/vscode-gleam-themes/main/images/gleam-minimal-dark-v0.0.3-bg0.png" title="Gleam Minimal Dark Preview" />
 
 ## Recommendations
 
